@@ -1,0 +1,68 @@
+[
+    {
+        "id":"one",
+        "category":"Textile",
+        "name":"Pom Pom cushion 45x45 cm",
+        "sku":"sku_313355",
+        "price":76,
+        "image":"images/textile1.png",
+        "description":"The Pom Pom cushion 45x45 cm from the Swedish By On is a pure dream for those who love soft and cosy styles of decor. This wonderful cushion.",
+        "description_long":"The Pom Pom cushion 45x45 cm from the Swedish By On is a pure dream for those who love soft and cosy styles of decor. This wonderful cushion.",
+        "currency":"USD"
+    },
+    {
+        "id":"two",
+        "category":"Tableware",
+        "name":"Rustic mug",
+        "sku":"sku_313356",
+        "price":6,
+        "image":"images/table1.png",
+        "description":"The beautiful Rustic mug from House Doctor is made of ceramics and has an appealing glaze in grey and blue that contributes to a rustic.",
+        "description_long":"The beautiful Rustic mug from House Doctor is made of ceramics and has an appealing glaze in grey and blue that contributes to a rustic.",
+        "currency":"USD"
+    },
+    {
+        "id":"three",
+        "category":"Home Accessories",
+        "name":"Triplets easter rabbit 3-pack",
+        "sku":"sku_313356",
+        "price":16,
+        "image":"images/home1.png",
+        "description":"Cas plays modern with rustic wood, framing the rich color and defined grain of natural oak veneer in dark grey high-gloss lacquer.",
+        "description_long":"Cas plays modern with rustic wood, framing the rich color and defined grain of natural oak veneer in dark grey high-gloss lacquer.",
+        "currency":"USD"
+    },
+    {
+        "id":"four",
+        "category":"Lighting",
+        "name":"Silvia lamp white",
+        "sku":"sku_313356",
+        "price":47,
+        "image":"images/lighting2.png",
+        "description":"Renew your home with the trendy Silvia lamp in white designed by the Danish brand Umage / Vita. Silvia is a lampshade made of polypropylene.",
+        "description_long":"Renew your home with the trendy Silvia lamp in white designed by the Danish brand Umage / Vita. Silvia is a lampshade made of polypropylene.",
+        "currency":"USD"
+    },
+    {
+        "id":"five",
+        "category":"Furniture",
+        "name":"High Dot stool leather",
+        "sku":"sku_313356",
+        "price":463,
+        "image":"images/furniture1.png",
+        "description":"The High Dot stool leather from Fritz Hansen is a stable little seat made from premium leather and three legs of quality steel.",
+        "description_long":"The High Dot stool leather from Fritz Hansen is a stable little seat made from premium leather and three legs of quality steel.",
+        "currency":"USD"
+    },
+    {
+        "id":"six",
+        "category":"Cookware",
+        "name":"Satake Kuro chopper",
+        "sku":"sku_313356",
+        "price":150,
+        "image":"images/cook1.png",
+        "description":"The Satake Kuro Chopper is a handmade and rough forged knife of exceptional quality. It has been developed with a focus on sharpness, precision .",
+        "description_long":"The Satake Kuro Chopper is a handmade and rough forged knife of exceptional quality. It has been developed with a focus on sharpness, precision .",
+        "currency":"USD"
+    }
+]
